@@ -24,6 +24,8 @@ public class Extraction {
 	/**
 	 * @param args
 	 */
+
+/*apres avoir fait ca */
 	static Document doc =null;
 	
 	 private static String trim(String s, int width) {
